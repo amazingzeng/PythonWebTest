@@ -1,0 +1,14 @@
+1、python版本：
+python-2.7.14.amd64.msi
+
+2、selenium安装
+安装pycharm后会自动安装pip，在windows CMD中用已经默认安装的pip安装selenium：
+pip install -U selenium
+
+2018.10.14安装的是selenium3.14.1版本，同时安装了urllib3-1.23
+
+3、selenium使用说明：
+https://pypi.org/project/selenium/
+
+4、其中使用Firefox驱动，需要下载geckodriver.exe并放置在下面目录：
+C:\Python27\Scripts\geckodriver.exe
