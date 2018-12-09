@@ -16,6 +16,10 @@ C:\Python27\Scripts\geckodriver.exe
 5、Python环境变量
 在C:\Python27\Lib\site-packages目录下添加一个路径文件，如mypkpath.pth，必须以.pth为后缀，写上你要加入的模块文件所在的目录
 
+6、关键字封装参考robotFramework的写法，地址：
+https://github.com/robotframework/SeleniumLibrary
+
+
 一些文章：
 
 selenium基础框架的封装(Python版)
