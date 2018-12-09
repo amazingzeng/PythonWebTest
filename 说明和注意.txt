@@ -13,6 +13,8 @@ https://pypi.org/project/selenium/
 4、其中使用Firefox驱动，需要下载geckodriver.exe并放置在下面目录：
 C:\Python27\Scripts\geckodriver.exe
 
+5、Python环境变量
+在C:\Python27\Lib\site-packages目录下添加一个路径文件，如mypkpath.pth，必须以.pth为后缀，写上你要加入的模块文件所在的目录
 
 一些文章：
 
