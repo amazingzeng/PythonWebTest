@@ -45,6 +45,7 @@ C:\Python27\Scripts\geckodriver.exe
 6、关键字封装参考robotFramework的写法，地址：
 https://github.com/robotframework/SeleniumLibrary
 
+7、pycharm主题下载：http://www.themesmap.com
 
 一些文章：
 
